@@ -1,0 +1,7 @@
+{
+  "name": "code_master.ak - Secure Exam Platform",
+  "description": "A professional-grade online examination platform with batch management, anti-cheat mechanisms, auto-scheduling, and automated result reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
